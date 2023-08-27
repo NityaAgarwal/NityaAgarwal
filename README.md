@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hey there, I'm Nitya 👋<br>I'm currently upskilling myself in Web Development, particularly Front-End<br><br>Glad to have you here!💕
+Hey there, I'm Nitya 👋<br>I'm upskilling myself in Web Development, particularly Front-End. Currently working on a project, will upload soon<br><br>Glad to have you here!💕
+
+<!-- 
+## What I'm working on these days
+DSA! Yes, it is an integral part of an engineer's learning curve, not just because of its obvious need in technical interviews, but more importantly as it helps build logic. Recently I started maintaining a private repository to collect all my solved questions in one place. Will make it public soon -->
 
 
 ## 🌐 Socials:
@@ -12,9 +16,10 @@ Hey there, I'm Nitya 👋<br>I'm currently upskilling myself in Web Development,
 ![](https://github-readme-stats.vercel.app/api?username=NityaAgarwal&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NityaAgarwal&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NityaAgarwal&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
--->
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NityaAgarwal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
