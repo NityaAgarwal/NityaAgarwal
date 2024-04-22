@@ -3,7 +3,7 @@ Hey there, I'm Nitya 👋<br><!--I'm upskilling myself in Web Development, parti
 
 <!-- NOTE - THE ACTUAL ORIGINAL FILE IS SAVED ON YOUR DESKTOP, COPY REST FROM THERE
 ## What I'm working on these days -->
-DSA! Yes, it is an integral part of an engineer's learning curve, not just because of its obvious need in technical interviews, but more importantly as it helps build logic. Recently I started maintaining a private repository to collect all my solved questions in one place. Will make it public soon 
+<!--DSA! Yes, it is an integral part of an engineer's learning curve, not just because of its obvious need in technical interviews, but more importantly as it helps build logic. Recently I started maintaining a private repository to collect all my solved questions in one place. Will make it public soon--> 
 
 
 ## 🌐 Socials:
