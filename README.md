@@ -1,5 +1,6 @@
 <!--# 💫 About Me:-->
-Hey there, I'm Nitya 👋<br> I'm upskilling myself in Web Development. Currently working on a project, will upload soon<br><br>Glad to have you here!💕-->
+## Hey there, I'm Nitya 👋
+I'm upskilling myself in Web Development. Currently working on a project, will upload soon<br><br>Glad to have you here!💕
 
 <!-- NOTE - THE ACTUAL ORIGINAL FILE IS SAVED ON YOUR DESKTOP, COPY REST FROM THERE -->
 ## What I'm working on these days?
