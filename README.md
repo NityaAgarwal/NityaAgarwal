@@ -1,10 +1,10 @@
 <!--# 💫 About Me:-->
 ## Hey there, I'm Nitya 👋
-I'm upskilling myself in Web Development. Currently working on a project, will upload soon<br><br>Glad to have you here!💕
+I'm a Computer Science student with a passion for all things tech. This account showcases some of the things that i have delved into during my college journey so far.<br><br>Glad to have you here!💕
 
 <!-- NOTE - THE ACTUAL ORIGINAL FILE IS SAVED ON YOUR DESKTOP, COPY REST FROM THERE -->
 ## What I'm working on these days?
-'File Fly' - a file sharing app that makes it possible to share files not just through copyable links, but via scanners that are generated in real-time for your document. With the work on front-end done, currently the backend is being solidified. Stay tuned!
+I am currently deepening my knowledge in the domain of Cybersecurity and am pursuing Google Cybersecurity Professional Certificate (progress so far - completed 5 of the 8 total sub-courses)
 <!--DSA! Yes, it is an integral part of an engineer's learning curve, not just because of its obvious need in technical interviews, but more importantly as it helps build logic. Recently I started maintaining a private repository to collect all my solved questions in one place. Will make it public soon--> 
 
 
@@ -42,4 +42,4 @@ I'm upskilling myself in Web Development. Currently working on a project, will u
 [![](https://visitcount.itsvg.in/api?id=NityaAgarwal&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
+
