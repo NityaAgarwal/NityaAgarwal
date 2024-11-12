@@ -4,7 +4,7 @@ I'm a Computer Science student with a passion for all things tech. This account 
 
 <!-- NOTE - THE ACTUAL ORIGINAL FILE IS SAVED ON YOUR DESKTOP, COPY REST FROM THERE -->
 ## What I'm working on these days?
-I am currently deepening my knowledge in the domain of Cybersecurity and am pursuing Google Cybersecurity Professional Certificate (progress so far - completed 5 of the 8 total sub-courses)
+I am currently deepening my knowledge in the domain of Cybersecurity and recently completed Google Cybersecurity Professional Certificate (awaiting digital-certificate)
 <!--DSA! Yes, it is an integral part of an engineer's learning curve, not just because of its obvious need in technical interviews, but more importantly as it helps build logic. Recently I started maintaining a private repository to collect all my solved questions in one place. Will make it public soon--> 
 
 
